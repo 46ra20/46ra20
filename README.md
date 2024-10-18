@@ -1,6 +1,5 @@
 <img src="https://github.com/46ra20/46ra20/blob/main/Yellow%20Corporate%20LinkedIn%20Banner%20(1).png" style="width:100%;height:300px;border-radius: 10px;"/>
-\
-\
+
 
 <h1 align="center">Hi 👋, I'm Md Rakib Bhuiyan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=46ra20&label=Profile%20views&color=0e75b6&style=flat" alt="46ra20" /> </p>
